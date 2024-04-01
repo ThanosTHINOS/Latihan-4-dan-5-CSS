@@ -1,0 +1,29 @@
+h1 {
+    font-family: Verdana;
+    font-size: 2em;
+    color: #DE101D ;
+}
+
+p{
+    font-family: Garamond;
+    font-size: 14px;
+    color: #850F16;
+}
+
+img {
+    border: 2px solid black;
+    align-items: center;
+    height: 150px;
+}
+
+div {
+    background-color: #DB5B0B;
+    border: 2px solid #8F3C09 ;
+    
+}
+
+a {
+    background-color: gray;
+    color: whitesmoke;
+    text-decoration: none;
+}

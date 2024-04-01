@@ -1,0 +1,16 @@
+/* CSS untuk mengatur tabel */
+table {
+    border-collapse: collapse;
+    border: 1px solid black; /* Atur border luar tabel */
+}
+
+/* CSS untuk mengatur sel-sel data */
+td {
+    height: 50px; /* Atur tinggi sel-sel data */
+    border: 1px dashed blue; /* Atur border sel-sel data */
+}
+
+/* CSS untuk mengatur baris tabel */
+tr {
+    background-color: crimson; /* Atur warna latar belakang baris tabel */
+}
